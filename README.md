@@ -6,7 +6,7 @@ To run this application following steps are there.
 For Backend:
 1) Open Terminal and set path for backend
 2) Do npm install
-3) Do Node index.js
+3) Do node index.js
 
 For Frontend:
 1) Open Terminal and set path for frontend
