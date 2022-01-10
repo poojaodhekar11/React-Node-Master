@@ -1,0 +1,59 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.people-nearby .nearby-user{
+  padding: 20px;
+}
+
+img.profile-photo-lg{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+body{
+  margin-top:20px;
+  background:#FAFAFA;    
+}
+.profile-user-info {
+  display: table;
+  width: 98%;
+  width: calc(100% - 24px);
+  margin: 0 auto
+}
+
+.profile-info-row {
+  display: table-row
+}
+
+.profile-info-name,
+.profile-info-value {
+  display: table-cell;
+  border-top: 1px dotted #D5E4F1
+}
+
+.profile-info-name {
+  text-align: left;
+  padding: 5px 5px 5px 15px;
+  font-weight: 400;
+  color: #667E99;
+  background-color: transparent;
+  width: 110px;
+  vertical-align: middle
+}
+
+.profile-info-value {
+  padding: 6px 4px 6px 6px
+}
+
+.avatar2 {
+  height: 250px;
+}
+
